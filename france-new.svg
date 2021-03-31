@@ -10,7 +10,9 @@
    id="svg2"
    height="584.5448"
    width="596.41547"
-   mapsvg:geoViewBox="-4.796120 51.089515 9.560553 41.363289">
+   mapsvg:geoViewBox="-4.796120 51.089515 9.560553 41.363289"
+   fill="grey"
+   stroke="grey">
   <metadata
      id="metadata30">
     <rdf:RDF>
