@@ -8,7 +8,9 @@
    xmlns="http://www.w3.org/2000/svg"
    mapsvg:geoViewBox="-9.303180 43.793001 4.312512 31.732576"
    width="418.45123"
-   height="468.63733">
+   height="468.63733"
+   fill="grey"
+   stroke="grey">
   
   <path
      style="fill:none;stroke:#cccccc"  

@@ -10,7 +10,9 @@
    id="svg2"
    height="374.54001"
    width="426.45999"
-   mapsvg:geoViewBox="16.456213 -22.124926 32.890990 -34.833247">
+   mapsvg:geoViewBox="16.456213 -22.124926 32.890990 -34.833247"
+   fill="grey"
+   stroke="grey">
   <path
      id="LS"
      title="Lesotho"
